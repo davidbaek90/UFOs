@@ -10,19 +10,19 @@
 - This is the very first page you will find when the webpages is opened. 
 
 <p align="center">
-<b>Smmary Statistics - June Temperature</b>
+<b>Home Page</b>
 </p>  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/davidbaek90/surfs_up/main/Resources/junedata.png">
+  <img src="https://raw.githubusercontent.com/davidbaek90/UFOs/main/static/images/home.PNG">
 </p>
 
 - In order to filter UFO sightings, you can simplly enter the date, name of the city, state country and UFO shape. If you are unsure of certain categories, you only need to fill out the specific criteria that you would like to filter to, followed by enter. The filter result will update as soon as at least one criterieon is entered
 
 <p align="center">
-<b>Frequency of December Temperatures</b>
+<b>How to Filter UFO Sightings</b>
 </p>
 <p align="center">  
-  <img src="https://raw.githubusercontent.com/davidbaek90/surfs_up/main/Resources/dectemp.png">
+  <img src="https://raw.githubusercontent.com/davidbaek90/UFOs/main/static/images/search.PNG">
 </p>
 
 ## Summary
